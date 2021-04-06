@@ -2,7 +2,7 @@ module.exports = {
     publicRuntimeConfig: {
         APP_NAME: "Ayush's Blog",
         API_DEVELOPMENT: 'http://localhost:8000/api',
-        API_PRODUCTION: 'https://ayushblogapp.herokuapp.com/api', 
+        API_PRODUCTION: 'https://ayushbloggingapp.herokuapp.com/api', 
         PRODUCTION: true,
         DOMAIN_DEVELOPMENT:'http://localhost:3000',
         DOMAIN_PRODUCTION: 'https://mern-blog-client.vercel.app',
